@@ -1,0 +1,9 @@
+@use 'macchiato';
+
+.body {
+    font-size: 16px;
+    font-family: "AcafadFlux.ttf";
+    src: url ("../fonts/AcafadFlux.ttf") format("truetype");
+    background-color: macchiato.$base;
+    color: macchiato.$text;
+}

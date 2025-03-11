@@ -1,0 +1,9 @@
+.body {
+  font-size: 16px;
+  font-family: "AcafadFlux.ttf";
+  src: url "../fonts/AcafadFlux.ttf" format("truetype");
+  background-color: #24273a;
+  color: #cad3f5;
+}
+
+/*# sourceMappingURL=styles.css.map */
