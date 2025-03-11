@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&display=swap');
+
 body {
   font-size: 16px;
-  font-family: "AcafadFlux.ttf";
+  font-family: "Afacad", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   src: url "fonts/AfacadFlux.ttf" format("truetype");
   background-color: #24273a;
   color: #cad3f5;
