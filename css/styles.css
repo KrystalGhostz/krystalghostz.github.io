@@ -1,13 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&display=swap');
 
+:root {
+  --m-rosewater: #f4dbd6;
+  --m-flamingo: #f0c6c6;
+  --m-pink: #f5bde6;
+  --m-mauve: #c6a0f6;
+  --m-red: #ed8796;
+  --m-maroon: #ee99a0;
+  --m-peach: #f5a97f;
+  --m-yellow: #eed49f;
+  --m-green: #a6da95;
+  --m-teal: #8bd5ca;
+  --m-sky: #91d7e3;
+  --m-sapphire: #7dc4e4;
+  --m-blue: #8aadf4;
+  --m-lavender: #b7bdf8;
+  --m-text: #cad3f5;
+  --m-subtext1: #b8c0e0;
+  --m-subtext0: #a5adcb;
+  --m-overlay2: #939ab7;
+  --m-overlay1: #8087a2;
+  --m-overlay0: #6e738d;
+  --m-surface2: #5b6078;
+  --m-surface1: #494d64;
+  --m-surface0: #363a4f;
+  --m-base: #24273a;
+  --m-mantle: #1e2030;
+  --m-crust: #181926;
+}
+
 body {
   font-size: 16px;
   font-family: "Afacad", sans-serif;
   font-weight: 400;
   font-style: normal;
   src: url "fonts/AfacadFlux.ttf" format("truetype");
-  background-color: #24273a;
-  color: #cad3f5;
+  background-color: var(--m-base);
+  color: var(--m-text);
 }
 
 /*# sourceMappingURL=styles.css.map */
