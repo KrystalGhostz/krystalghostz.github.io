@@ -35,7 +35,7 @@ body {
   font-weight: 400;
   font-style: normal;
   src: url "fonts/AfacadFlux.ttf" format("truetype");
-  background-color: var(--m-base);
+  background-color: var(--m-red);
   color: var(--m-text);
 }
 
